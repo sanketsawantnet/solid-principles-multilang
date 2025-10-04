@@ -1,11 +1,11 @@
 Interface Segregation Principle (ISP)
 
-📌 ** Definition (Simple Words):
+📌 * Definition (Simple Words):
 👉 Clients (classes that use an interface) should not be forced to depend on methods they don’t need.
 
 Think of it like a restaurant menu 🍽️ — if you just want coffee, you shouldn’t be forced to order full breakfast.
 
-🚫 ** Bad Example
+🚫 * Bad Example
 Problem in real life:
 
 Imagine we have one big IMachine interface that says:
